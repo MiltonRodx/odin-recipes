@@ -1,0 +1,35 @@
+h1 {
+    color: rgba(60, 214, 196, 0.754)
+}
+
+li {
+    color: rgba(101, 143, 196, 0.593)
+}
+
+a.uno {
+    color: rgba(36, 233, 59, 0.754)
+}
+
+a.dos {
+    color: rgba(98, 244, 249, 0.754)
+}
+
+a.tres {
+    color: rgba(249, 86, 154, 0.754)
+}
+
+
+div.tu-madre {
+    color: rgba(241, 90, 20, 0.5)
+}
+
+
+#the-body {
+    background-color:rgba(0, 0, 0, 0.754);
+}
+
+
+img {
+    height: 400;
+    width: 500;
+}
